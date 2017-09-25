@@ -1,5 +1,5 @@
 # Android Assets for Photoshop
-
+(Script copied from https://github.com/UncorkedStudios/export-to-android I edited script for naming and removing annying dialogs, which were causing 4 clicks for one image)
 
 A Photoshop script for exporting assets for Android projects.
 
