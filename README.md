@@ -1,5 +1,4 @@
 # Android Assets for Photoshop
-(Script copied from https://github.com/UncorkedStudios/export-to-android I edited script for naming and removing annying dialogs, which were causing 4 clicks for one image)
 
 A Photoshop script for exporting assets for Android projects.
 
@@ -13,3 +12,6 @@ The script works by duplicating the selected layer (or layergroup) to a new docu
 	- Mac: **/Applications/Adobe Photoshop.../Presets/Scripts/**
 	- PC 64bit: **C:\Program Files\Adobe\Adobe Photoshop... (64 Bit)\Presets\Scripts\**
 	- PC 32bit: **C:\Program Files\Adobe\Adobe Photoshop...\Presets\Scripts\**
+
+## Reference
+(Script copied from https://github.com/UncorkedStudios/export-to-android I edited script for naming and removing annoying dialogs, which were causing 4 clicks for one image)
